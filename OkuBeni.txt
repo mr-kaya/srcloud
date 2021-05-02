@@ -1,0 +1,5 @@
+Ana siteye upload için;
+firebase deploy
+
+Localhost denemesi yapmak için;
+firebase serve
